@@ -1,13 +1,23 @@
 body {
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
+    background-image: url("./assets/css/images/time-background.jpg");
   }
   
+  .display-3 {
+    font-weight: bolder;
+    color:rgb(238, 5, 5)
+  }
+
+  .lead {
+    font-weight: bolder;
+    color: rgb(238, 5, 5);
+  }
   textarea {
     background: transparent;
     border: none;
     resize: none;
-    color: #000000;
+    color: #ff0202;
     border-left: 1px solid black;
     padding: 10px;
   }
