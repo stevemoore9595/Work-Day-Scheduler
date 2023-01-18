@@ -1,23 +1,33 @@
+:root {
+  --header: black;
+}
+  
 body {
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
-    background-image: url("./assets/css/images/time-background.jpg");
+    background-image: url("./assets/css/images/beach-background.jpeg");
+    background-size: 1903px 1116px;
   }
   
   .display-3 {
     font-weight: bolder;
-    color:rgb(238, 5, 5)
+    color: var(--header);
   }
 
   .lead {
     font-weight: bolder;
-    color: rgb(238, 5, 5);
+    color: var(--header);
+  }
+  
+  #current-day {
+    font-weight: bolder;
+    color: var(--header);
   }
   textarea {
     background: transparent;
     border: none;
     resize: none;
-    color: #ff0202;
+    color: #0a0a0a;
     border-left: 1px solid black;
     padding: 10px;
   }
