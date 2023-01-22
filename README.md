@@ -30,7 +30,7 @@ THEN the saved events persist
 
 ## Deployed Application
 
-The deployed application can be found at this link: 
+The deployed application can be found at this link: https://stevemoore9595.github.io/Work-Day-Scheduler/
 
 ## License
 
