@@ -37,3 +37,5 @@ The deployed application can be found at this link:
 Please refer to the LICENSE in the repository
 
 ## Screenshot
+
+![screenshot-of-work-day-scheduler](https://user-images.githubusercontent.com/38742748/213894943-9103b691-b038-43d6-a896-7e160aa6ab60.png)
