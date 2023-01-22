@@ -2,15 +2,17 @@
 
 ## Description
 
-## User Story
+I added the ability to schedule daily events and save them to the local storage, and have the events persist. 
+Each hour is assigned a color for past, present, and future. I also added a beach scene background to help
+lower any stress the user may have with their schedule.
 
-## Acceptance Criteria
+## User Story
 
 AS AN employee with a busy schedule
 I WANT to add important events to a daily planner
 SO THAT I can manage my time effectively
 
-## Deployed Application
+## Acceptance Criteria
 
 GIVEN I am using a daily planner to create a schedule
 WHEN I open the planner
@@ -25,6 +27,10 @@ WHEN I click the save button for that timeblock
 THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
+
+## Deployed Application
+
+The deployed application can be found at this link: 
 
 ## License
 

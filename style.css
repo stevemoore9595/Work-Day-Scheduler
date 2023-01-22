@@ -6,7 +6,7 @@ body {
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
     background-image: url("./assets/css/images/beach-background.jpeg");
-    background-size: 1903px 1116px;
+    background-size: 1920px 1150px;
   }
   
   .display-3 {
@@ -22,7 +22,9 @@ body {
   #current-day {
     font-weight: bolder;
     color: var(--header);
+    font-size: 20px;
   }
+
   textarea {
     background: transparent;
     border: none;
